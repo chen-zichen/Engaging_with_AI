@@ -1,0 +1,106 @@
+Question: Confidence and Understanding::
+
+Kruskal-Wallis test statistic: 16.107714598806826  *
+P-value: 0.0065431788060633985
+Significant result found in Kruskal-Wallis test. Performing post-hoc pairwise Mann-Whitney U tests...
+    Condition 1 vs Condition 2 - Mann-Whitney U test p-value: 0.05927559161411712 
+    Condition 1 vs Condition 3 - Mann-Whitney U test p-value: 0.11463336999039099 
+    Condition 1 vs Condition 4 - Mann-Whitney U test p-value: 0.0018138874621678482  *
+    Condition 1 vs Condition 5 - Mann-Whitney U test p-value: 0.007629159822896394  *
+    Condition 1 vs Condition 6 - Mann-Whitney U test p-value: 0.0032167464431335172  *
+    Condition 2 vs Condition 3 - Mann-Whitney U test p-value: 0.628260287575655 
+    Condition 2 vs Condition 4 - Mann-Whitney U test p-value: 0.2171456442744022 
+    Condition 2 vs Condition 5 - Mann-Whitney U test p-value: 0.40396675241782654 
+    Condition 2 vs Condition 6 - Mann-Whitney U test p-value: 0.07697646836905238 
+    Condition 3 vs Condition 4 - Mann-Whitney U test p-value: 0.0825099349341857 
+    Condition 3 vs Condition 5 - Mann-Whitney U test p-value: 0.24768074531330408 
+    Condition 3 vs Condition 6 - Mann-Whitney U test p-value: 0.05516957184430838 
+    Condition 4 vs Condition 5 - Mann-Whitney U test p-value: 0.6076687401094435 
+    Condition 4 vs Condition 6 - Mann-Whitney U test p-value: 0.5126974139021145 
+    Condition 5 vs Condition 6 - Mann-Whitney U test p-value: 0.18551888001621464 
+
+    Condition 1: mean = 6.0, std = 0.55277
+    Condition 2: mean = 5.4444, std = 0.97024
+    Condition 3: mean = 5.5278, std = 0.88932
+    Condition 4: mean = 4.9167, std = 1.1815
+    Condition 5: mean = 5.25, std = 0.85391
+    Condition 6: mean = 4.5833, std = 1.4649
+
+Question: Consistency and Cognitive Load::
+
+Kruskal-Wallis test statistic: 6.477432250116035 
+P-value: 0.262492688813942
+    Condition 1: mean = 4.6667, std = 0.91287
+    Condition 2: mean = 4.6389, std = 0.76022
+    Condition 3: mean = 4.6944, std = 1.0559
+    Condition 4: mean = 4.1111, std = 1.2644
+    Condition 5: mean = 4.3056, std = 0.97381
+    Condition 6: mean = 3.9444, std = 1.2121
+
+Question: Ease and Usefulness::
+
+Kruskal-Wallis test statistic: 12.440904574285833  *
+P-value: 0.02922115530698599
+Significant result found in Kruskal-Wallis test. Performing post-hoc pairwise Mann-Whitney U tests...
+    Condition 1 vs Condition 2 - Mann-Whitney U test p-value: 0.911250076908679 
+    Condition 1 vs Condition 3 - Mann-Whitney U test p-value: 0.28572541987240785 
+    Condition 1 vs Condition 4 - Mann-Whitney U test p-value: 0.024898835961375234  *
+    Condition 1 vs Condition 5 - Mann-Whitney U test p-value: 0.7609525794489 
+    Condition 1 vs Condition 6 - Mann-Whitney U test p-value: 0.009143572667509741  *
+    Condition 2 vs Condition 3 - Mann-Whitney U test p-value: 0.5136069268158199 
+    Condition 2 vs Condition 4 - Mann-Whitney U test p-value: 0.08652723465461112 
+    Condition 2 vs Condition 5 - Mann-Whitney U test p-value: 0.9746062402425295 
+    Condition 2 vs Condition 6 - Mann-Whitney U test p-value: 0.03341567715064478  *
+    Condition 3 vs Condition 4 - Mann-Whitney U test p-value: 0.23308568713857236 
+    Condition 3 vs Condition 5 - Mann-Whitney U test p-value: 0.42576003644028515 
+    Condition 3 vs Condition 6 - Mann-Whitney U test p-value: 0.06072280307502771 
+    Condition 4 vs Condition 5 - Mann-Whitney U test p-value: 0.05466003073487174 
+    Condition 4 vs Condition 6 - Mann-Whitney U test p-value: 0.5258687347383519 
+    Condition 5 vs Condition 6 - Mann-Whitney U test p-value: 0.01717765586488312  *
+
+    Condition 1: mean = 5.4444, std = 0.88192
+    Condition 2: mean = 5.2037, std = 1.4278
+    Condition 3: mean = 4.9444, std = 1.2681
+    Condition 4: mean = 4.1111, std = 1.8019
+    Condition 5: mean = 5.3148, std = 1.0569
+    Condition 6: mean = 3.8519, std = 1.7993
+
+Question: Trust and Comfort::
+
+Kruskal-Wallis test statistic: 14.622654438880105  *
+P-value: 0.012102429490107867
+Significant result found in Kruskal-Wallis test. Performing post-hoc pairwise Mann-Whitney U tests...
+    Condition 1 vs Condition 2 - Mann-Whitney U test p-value: 0.47296410117976073 
+    Condition 1 vs Condition 3 - Mann-Whitney U test p-value: 0.2983562453453047 
+    Condition 1 vs Condition 4 - Mann-Whitney U test p-value: 0.004206489821035267  *
+    Condition 1 vs Condition 5 - Mann-Whitney U test p-value: 0.4932547180603659 
+    Condition 1 vs Condition 6 - Mann-Whitney U test p-value: 0.023735789148833963  *
+    Condition 2 vs Condition 3 - Mann-Whitney U test p-value: 0.9490188460097257 
+    Condition 2 vs Condition 4 - Mann-Whitney U test p-value: 0.050390722907211194 
+    Condition 2 vs Condition 5 - Mann-Whitney U test p-value: 0.9365098997841896 
+    Condition 2 vs Condition 6 - Mann-Whitney U test p-value: 0.05860339725229754 
+    Condition 3 vs Condition 4 - Mann-Whitney U test p-value: 0.013504528680919075  *
+    Condition 3 vs Condition 5 - Mann-Whitney U test p-value: 0.8603350101248979 
+    Condition 3 vs Condition 6 - Mann-Whitney U test p-value: 0.02932759956231542  *
+    Condition 4 vs Condition 5 - Mann-Whitney U test p-value: 0.03581856561489044  *
+    Condition 4 vs Condition 6 - Mann-Whitney U test p-value: 0.8364083913484602 
+    Condition 5 vs Condition 6 - Mann-Whitney U test p-value: 0.02490824893261535  *
+
+    Condition 1: mean = 5.4259, std = 0.79973
+    Condition 2: mean = 5.1111, std = 1.2423
+    Condition 3: mean = 5.2407, std = 0.85927
+    Condition 4: mean = 4.1852, std = 1.4497
+    Condition 5: mean = 5.2407, std = 1.0761
+    Condition 6: mean = 4.037, std = 1.7173
+
+Question: Trust Dynamics::
+
+Kruskal-Wallis test statistic: 3.6402641320497047 
+P-value: 0.6022781299503803
+    Condition 1: mean = 4.1667, std = 1.5723
+    Condition 2: mean = 4.1667, std = 1.7401
+    Condition 3: mean = 4.5, std = 1.6073
+    Condition 4: mean = 3.4444, std = 1.6741
+    Condition 5: mean = 3.9444, std = 1.7471
+    Condition 6: mean = 4.0556, std = 1.5802
+

@@ -1,0 +1,38 @@
+Within Conditions Questions:
+
+satisfaction: How satisfied have you been with the AI's outputs?
+complexity: How easy was it to interact with the AI to achieve your goals?
+reliability: How easy was it to understand the AI's outputs?
+trust: How reliable have you found the AI's outputs to be?
+ccurate: Do you think the AI provides accurate and relevant information in response to your needs?
+
+Across Conditions Questions:
+
+post_satisfaction: How satisfied were you with our AI's ability to pick the right meal?
+post_complexity: How clear and understandable was the AI's assistance in helping you choose a meal?
+post_reliability: How would you rate the reliability of the AI's assistance?
+post_accurate: Does the AI provide accurate and relevant information based on your experience or konwledge of meals that people with Type 2 diabetes should eat?
+post_base_question: To what extent did the AI's answer help you in making meal decisions?
+post_condition_satisfaction: 
+    To what extent did the visual explanation help you in deciding which food image to select?
+    To what extent did the AI’s explanation help you in deciding which food image to select?
+    To what extent did the AI-estimated confidence levels (CLs) help you in deciding which food image to select?
+    To what extent did entering confidence levels (CLs) help you in deciding which food image to select?
+    To what extent did the bar chart help you in deciding which food image to select?
+    To what extent did the critique help you in making healthcare decisions?
+post_use: I would like to use this system frequently
+post_confi: How confident did you feel in AI'meal choice
+post_understand_condition: How well did you understand the {feat} for picking a meal?
+post_consistent: How consistent did you feel were the AI's meal choices across different image pairs?
+post_demanding: I thought the task of picking the right meal was mentally demanding.
+post_easier: Did the AI make the task of picking the right meal easier?
+post_mental_demanding: I thought understanding the AI’s help was mentally demanding.
+post_autonomy: I thought I had autonomy in the decision-making process
+post_trust: How much did you trust the AI's judgment compared to your own?
+post_confident: I was confident during the decision-making process.
+post_notice: Did the AI point out aspects of the meals you hadn't noticed?
+post_help_final: How helpful was the {feat} in making your final decision?
+post_increase_trust: Did the AI's help increase your trust in its recommendations?
+post_comfortable: How comfortable would you be relying on this AI to help make meal related decisions for Type 2 diabetics?
+post_like_use: I would like to use this system in future decision-making tasks.
+post_trust_change: How did your trust in the AI change from the beginning to the end of the task?

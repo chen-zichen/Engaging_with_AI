@@ -1,0 +1,102 @@
+[
+    {
+        "question": 1,
+        "result": "dish_1562008979",
+        "info": "Meal 1 is preferred due to lower carbohydrate content."
+    },
+    {
+        "question": 2,
+        "result": "dish_1561753238",
+        "info": "Meal 2 is preferred due to lower carbohydrate content."
+    },
+    {
+        "question": 3,
+        "result": "dish_1567106825",
+        "info": "Meal 2 is preferred due to lower carbohydrate content."
+    },
+    {
+        "question": 4,
+        "result": "dish_1566849327",
+        "info": "Meal 1 is preferred due to lower carbohydrate content."
+    },
+    {
+        "question": 5,
+        "result": "dish_1563395480",
+        "info": "Meal 2 is preferred due to better nutritional balance."
+    },
+    {
+        "question": 6,
+        "result": "dish_1560369146",
+        "info": "Meal 2 is preferred due to lower carbohydrate content."
+    },
+    {
+        "question": 7,
+        "result": "dish_1562094730",
+        "info": "Meal 1 is preferred due to lower carbohydrate content."
+    },
+    {
+        "question": 8,
+        "result": "dish_1563391989",
+        "info": "Meal 1 is preferred due to lower carbohydrate content."
+    },
+    {
+        "question": 9,
+        "result": "dish_1562613403",
+        "info": "Meal 2 is preferred due to lower carbohydrate content."
+    },
+    {
+        "question": 10,
+        "result": "dish_1562096401",
+        "info": "Meal 2 is preferred due to lower carbohydrate content."
+    },
+    {
+        "question": 11,
+        "result": "dish_1566844850",
+        "info": "Meal 2 is preferred due to lower carbohydrate content."
+    },
+    {
+        "question": 12,
+        "result": "dish_1561575327",
+        "info": "Meal 2 is preferred due to lower carbohydrate content."
+    },
+    {
+        "question": 13,
+        "result": "dish_1561576954",
+        "info": "Meal 1 is preferred due to lower carbohydrate content."
+    },
+    {
+        "question": 14,
+        "result": "dish_1564685450",
+        "info": "Meal 2 is preferred due to lower carbohydrate content."
+    },
+    {
+        "question": 15,
+        "result": "dish_1565023182",
+        "info": "Meal 1 is preferred due to lower carbohydrate content."
+    },
+    {
+        "question": 16,
+        "result": "dish_1563898813",
+        "info": "Meal 2 is preferred due to lower carbohydrate content."
+    },
+    {
+        "question": 17,
+        "result": "dish_1563480534",
+        "info": "Meal 1 is preferred due to lower carbohydrate content."
+    },
+    {
+        "question": 18,
+        "result": "dish_1563827482",
+        "info": "Meal 1 is preferred due to lower carbohydrate content."
+    },
+    {
+        "question": 19,
+        "result": "dish_1561577947",
+        "info": "Meal 2 is preferred due to lower carbohydrate content."
+    },
+    {
+        "question": 20,
+        "result": "dish_1562790855",
+        "info": "Meal 2 is preferred due to lower carbohydrate content."
+    }
+]

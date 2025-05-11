@@ -1,0 +1,22 @@
+[
+    {
+        "question": 1,
+        "result": "dish_1562788845",
+        "info": "Meal 2 is preferred due to lower carbohydrate content."
+    },
+    {
+        "question": 2,
+        "result": "dish_1564689219",
+        "info": "Meal 1 is preferred due to lower carbohydrate content."
+    },
+    {
+        "question": 3,
+        "result": "dish_1559933834",
+        "info": "Meal 1 is preferred due to lower carbohydrate content."
+    },
+    {
+        "question": 4,
+        "result": "dish_1563221157",
+        "info": "Meal 2 is preferred due to lower carbohydrate content."
+    }
+]

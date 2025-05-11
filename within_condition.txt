@@ -1,0 +1,126 @@
+Condition: 1
+    pre_satisfaction: mean = 5.2778, std = 0.93128
+    post_satisfaction: mean = 5.7778, std = 0.62854
+    Wilcoxon signed-rank test: p-value = 0.049558383092979504  *
+
+    pre_complexity: mean = 5.9444, std = 0.91118
+    post_complexity: mean = 6.2222, std = 0.78567
+    Wilcoxon signed-rank test: p-value = 0.3738433266021559 
+
+    pre_reliability: mean = 5.2778, std = 0.98914
+    post_reliability: mean = 6.0, std = 0.66667
+    Wilcoxon signed-rank test: p-value = 0.0050430226038068  *
+
+    pre_trust: mean = 5.3333, std = 1.1055
+    post_trust: mean = 5.0556, std = 0.91118
+    Wilcoxon signed-rank test: p-value = 0.42046560014359935 
+
+    pre_accurate: mean = 5.3333, std = 0.74536
+    post_accurate: mean = 5.6111, std = 0.82589
+    Wilcoxon signed-rank test: p-value = 0.16551785869747015 
+
+Condition: 2
+    pre_satisfaction: mean = 5.2222, std = 0.78567
+    post_satisfaction: mean = 5.5556, std = 1.1653
+    Wilcoxon signed-rank test: p-value = 0.12158846348776642 
+
+    pre_complexity: mean = 5.1111, std = 0.93624
+    post_complexity: mean = 5.7778, std = 0.91625
+    Wilcoxon signed-rank test: p-value = 0.008009315564444957  *
+
+    pre_reliability: mean = 4.7222, std = 1.2385
+    post_reliability: mean = 5.5556, std = 1.3426
+    Wilcoxon signed-rank test: p-value = 0.047629841693187715  *
+
+    pre_trust: mean = 5.1667, std = 1.1667
+    post_trust: mean = 4.8889, std = 1.2423
+    Wilcoxon signed-rank test: p-value = 0.36824282841616984 
+
+    pre_accurate: mean = 5.1111, std = 0.8089
+    post_accurate: mean = 5.4444, std = 1.0657
+    Wilcoxon signed-rank test: p-value = 0.2715391358765703 
+
+Condition: 3
+    pre_satisfaction: mean = 5.3333, std = 1.1055
+    post_satisfaction: mean = 5.7222, std = 0.73072
+    Wilcoxon signed-rank test: p-value = 0.24394625650102997 
+
+    pre_complexity: mean = 5.8333, std = 0.83333
+    post_complexity: mean = 6.1111, std = 1.1967
+    Wilcoxon signed-rank test: p-value = 0.40710190826572834 
+
+    pre_reliability: mean = 5.0, std = 1.4142
+    post_reliability: mean = 5.7222, std = 0.80316
+    Wilcoxon signed-rank test: p-value = 0.11398630694745414 
+
+    pre_trust: mean = 5.2222, std = 0.85346
+    post_trust: mean = 5.0, std = 0.74536
+    Wilcoxon signed-rank test: p-value = 0.2059032107320684 
+
+    pre_accurate: mean = 5.0, std = 1.291
+    post_accurate: mean = 5.6667, std = 0.74536
+    Wilcoxon signed-rank test: p-value = 0.03887138185480146  *
+
+Condition: 4
+    pre_satisfaction: mean = 4.8889, std = 1.1967
+    post_satisfaction: mean = 5.2222, std = 1.1811
+    Wilcoxon signed-rank test: p-value = 0.14303439894115536 
+
+    pre_complexity: mean = 5.4444, std = 1.2121
+    post_complexity: mean = 5.6667, std = 1.2472
+    Wilcoxon signed-rank test: p-value = 0.3095070694384655 
+
+    pre_reliability: mean = 4.5, std = 1.2134
+    post_reliability: mean = 4.7778, std = 1.4741
+    Wilcoxon signed-rank test: p-value = 0.3183083252850676 
+
+    pre_trust: mean = 4.6111, std = 1.2083
+    post_trust: mean = 4.2778, std = 1.5918
+    Wilcoxon signed-rank test: p-value = 0.41741292343058733 
+
+    pre_accurate: mean = 4.7222, std = 1.2385
+    post_accurate: mean = 4.7778, std = 1.3147
+    Wilcoxon signed-rank test: p-value = 0.5923536182363717 
+
+Condition: 5
+    pre_satisfaction: mean = 5.5556, std = 0.89581
+    post_satisfaction: mean = 5.6111, std = 1.1125
+    Wilcoxon signed-rank test: p-value = 0.8914780966616936 
+
+    pre_complexity: mean = 5.8889, std = 0.65734
+    post_complexity: mean = 5.5, std = 1.3437
+    Wilcoxon signed-rank test: p-value = 0.21801395384895594 
+
+    pre_reliability: mean = 5.4444, std = 1.0657
+    post_reliability: mean = 5.4444, std = 1.1653
+    Wilcoxon signed-rank test: p-value = 0.8574169326006347 
+
+    pre_trust: mean = 5.6667, std = 0.66667
+    post_trust: mean = 5.2778, std = 0.93128
+    Wilcoxon signed-rank test: p-value = 0.09990607046250709 
+
+    pre_accurate: mean = 5.6111, std = 0.89062
+    post_accurate: mean = 5.6111, std = 0.89062
+    Wilcoxon signed-rank test: p-value = 0.9510632368237669 
+
+Condition: 6
+    pre_satisfaction: mean = 5.0, std = 1.2019
+    post_satisfaction: mean = 4.9444, std = 1.4709
+    Wilcoxon signed-rank test: p-value = 0.7728299926844475 
+
+    pre_complexity: mean = 5.3333, std = 1.291
+    post_complexity: mean = 4.0556, std = 1.5446
+    Wilcoxon signed-rank test: p-value = 0.007970680350504739  *
+
+    pre_reliability: mean = 4.7778, std = 1.4359
+    post_reliability: mean = 4.3333, std = 1.5275
+    Wilcoxon signed-rank test: p-value = 0.2099033161853454 
+
+    pre_trust: mean = 5.0556, std = 1.2235
+    post_trust: mean = 4.2778, std = 1.6264
+    Wilcoxon signed-rank test: p-value = 0.03216574268316942  *
+
+    pre_accurate: mean = 4.7222, std = 1.2826
+    post_accurate: mean = 4.4444, std = 1.7708
+    Wilcoxon signed-rank test: p-value = 0.5431128861454256 
+

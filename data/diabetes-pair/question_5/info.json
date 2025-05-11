@@ -1,0 +1,18 @@
+[
+    {
+        "dish_id": "dish_1559841163",
+        "calories": 357.043518,
+        "total_mass": 335.0,
+        "total_fat": 18.222002,
+        "total_carbohydrates": 27.539,
+        "total_protein": 21.153002
+    },
+    {
+        "dish_id": "dish_1563395480",
+        "calories": 370.521423,
+        "total_mass": 329.0,
+        "total_fat": 14.106581,
+        "total_carbohydrates": 31.81958,
+        "total_protein": 29.161797
+    }
+]
